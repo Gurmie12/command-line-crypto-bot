@@ -1,0 +1,17 @@
+{
+  "name": "crypto-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ethers": "^5.5.2",
+    "fs": "0.0.1-security",
+    "web3": "^1.6.1"
+  }
+}
